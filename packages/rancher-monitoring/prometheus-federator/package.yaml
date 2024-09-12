@@ -1,4 +1,4 @@
-url: https://github.com/rancher/prometheus-federator.git
-subdirectory: charts/prometheus-federator/0.4.2
-commit: 734fcff1d3e46f2eb2deb9fa4a388fa11905af12
+url: https://github.com/mallardduck/prometheus-federator.git
+subdirectory: charts/prometheus-federator/0.4.3-rc.1
+commit: 41b22117faca98e795b14f26a73e8d5228dc529c
 version: 105.0.0-rc.1
