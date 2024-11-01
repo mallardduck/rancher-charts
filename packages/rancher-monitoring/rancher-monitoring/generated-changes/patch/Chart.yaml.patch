@@ -20,7 +20,7 @@
 +  catalog.cattle.io/ui-component: monitoring
 +  catalog.cattle.io/upstream-version: 61.3.2
  apiVersion: v2
- appVersion: v0.75.1
+ appVersion: v0.77.2
  dependencies:
 -- condition: crds.enabled
 -  name: crds
@@ -36,7 +36,7 @@
 -- condition: windowsMonitoring.enabled
 -  name: prometheus-windows-exporter
 -  repository: https://prometheus-community.github.io/helm-charts
--  version: 0.3.*
+-  version: 0.7.*
  - condition: rke2ControllerManager.enabled
    name: rke2ControllerManager
    repository: file://./charts/rke2ControllerManager
