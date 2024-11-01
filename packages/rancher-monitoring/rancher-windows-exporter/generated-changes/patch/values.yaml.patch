@@ -10,7 +10,7 @@
 +  repository: rancher/mirrored-prometheus-windows-exporter
    # Overrides the image tag whose default is {{ printf "v%s" .Chart.AppVersion }}
 -  tag: ""
-+  tag: "0.25.1"
++  tag: "0.29.2"
    pullPolicy: IfNotPresent
    digest: ""
  
