@@ -39,9 +39,11 @@ rancher-logging-crd:
 rancher-monitoring:
   - 105.0.0+up57.0.3
   - 105.1.0-rc.1+up61.3.2
+  - 105.2.0-rc.1+up65.5.1
 rancher-monitoring-crd:
   - 105.0.0+up57.0.3
   - 105.1.0-rc.1+up61.3.2
+  - 105.2.0-rc.1+up65.5.1
 rancher-provisioning-capi:
   - 105.0.0+up0.4.0
 rancher-vsphere-cpi:
