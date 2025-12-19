@@ -9,6 +9,7 @@ release.yaml export-ignore
 # Dirs
 .github/ export-ignore
 config/ export-ignore
+charts/ export-ignore
 packages/ export-ignore
 scripts/ export-ignore
 tests/ export-ignore
